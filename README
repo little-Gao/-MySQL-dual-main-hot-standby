@@ -1,1 +1,2 @@
 介绍双主热备数据库结构如何搭建:mysql+keepalived
+需要三个IP，两个用于mysql，一个用于keepalived虚拟IP
