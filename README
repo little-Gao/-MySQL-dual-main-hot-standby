@@ -1,2 +1,8 @@
 介绍双主热备数据库结构如何搭建:mysql+keepalived
 需要三个IP，两个用于mysql，一个用于keepalived虚拟IP
+
+第一：
+介绍自动化安装部署mysql5.7的shell脚本使用方法
+
+第二：
+介绍mysql+keepalived双主热备方案，具体部署文档
